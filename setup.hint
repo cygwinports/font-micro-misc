@@ -1,5 +1,5 @@
 category: X11
-requires: mkfontdir mkfontscale fontconfig xorg-encodings xorg-font-alias
-sdesc: "Xorg Micro fonts"
-ldesc: "Xorg Micro fonts"
+requires: mkfontdir mkfontscale fontconfig font-encodings font-alias
+sdesc: "X.Org Micro fonts"
+ldesc: "X.Org Micro fonts"
 
